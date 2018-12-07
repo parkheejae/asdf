@@ -1,0 +1,7 @@
+ body {
+                color:white;
+                /* background-color: black; */
+                 background:url("../img/loginimg/loginwallpaper.jpg");
+                 background-repeat: no-repeat;
+                 background-size:cover;
+        }
